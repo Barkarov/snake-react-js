@@ -4,7 +4,7 @@ import "../../utils.css";
 function SnakeHeader() {
     return (
         <div className="flex">
-            <div className="title">SNAKE</div>
+            <div className="title">SNAKE CUBEX</div>
         </div>
     );
 }

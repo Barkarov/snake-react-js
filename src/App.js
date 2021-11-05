@@ -328,7 +328,7 @@ class App extends Component
 
     gameOver()
     {
-        this.gameOverAudio.play();
+        // this.gameOverAudio.play();
 
         clearInterval(this.intervalId);
         this.turningPoints = [];
